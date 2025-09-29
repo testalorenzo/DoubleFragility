@@ -2,7 +2,7 @@
 
 This repository contains the replication material for the paper:
 
-Testa, L., Chiaromonte, F., Roeder, K., "Rescuing double robustness: safe estimation under complete misspecification" (2025+), forthcoming on arXiv.
+Testa, L., Chiaromonte, F., Roeder, K., "Rescuing double robustness: safe estimation under complete misspecification" (2025+), available on [arXiv](https://arxiv.org/abs/2509.22446).
 
 The Python scripts in this repository implement the simulation study and the real-data analysis described in the paper. The files are organized as follows:
 
